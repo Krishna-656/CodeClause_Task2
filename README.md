@@ -9,8 +9,13 @@ Customer segmentation is the process of dividing customers into groups based on 
 4) Interactive Dashboard: Visual representation of segmented data.
 # Steps:
 Importing the Dependencies
+
 Data Collection & Analysis
+
 Choosing the Annual Income Column & Spending Score column
+
 WCSS - Within Clusters Sum of Squares
+
 Training the k-Means Clustering Model
+
 Visualizing all the Clusters
